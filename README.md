@@ -50,4 +50,5 @@ A consumer editor aimed at short-form video, also outside the cited sources. Lis
 
 HyperFrames is a bet that agents should author video the way they author web pages, and the workflow guides show how far that goes. Most people's next video is not that; it is footage that needs a quick edit. For that case, [try Vidione - trim, crop, merge and subtitles in the browser, nothing to install](https://vidione.com?utm_source=github&utm_medium=ugc&utm_campaign=hyperframes-alternatives&utm_content=readme-top&utm_term=tier-r).
 
+
 _Last reviewed: 2026-09-22_
